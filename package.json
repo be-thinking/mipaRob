@@ -1,0 +1,19 @@
+{
+  "name": "miparob",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/be-thinking/mipaRob.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/be-thinking/mipaRob/issues"
+  },
+  "homepage": "https://github.com/be-thinking/mipaRob#readme"
+}
